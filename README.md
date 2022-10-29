@@ -103,3 +103,14 @@ more details: https://github.com/rayylin/R_Survival_Analysis
 ![image](https://user-images.githubusercontent.com/58899897/198397547-ba8ac0b0-af35-4a1a-bd77-da8d667da7e7.png)
 More details: https://github.com/rayylin/Python-Route_Optimization_by_KNN
 
+# Shipment Tracking Dashboard
+|Tools Used|Project Description|
+|---|---|
+|Power BI for Data Visualization Python for Data Processing|As shipping becomes increasingly complicated, shipment tracking has become an important issue. In this project, we will use Power BI to build an interactive dashboard to help users track the shipping status. We will analyze  macro trends, such as shipment quantity and freight costs, and specific shipping status. As the dataset is about a pharmaceutical company, we will also focus on product category, dosage form, brand, and vendor. For each specific shipping, we can track the starting point, destination, shipment mode, and progress.|
+
+![image](https://user-images.githubusercontent.com/58899897/198813673-de2d9af6-8fdf-4c02-b542-941f9db17eb6.png)
+
+![image](https://user-images.githubusercontent.com/58899897/198813693-cddff2e7-844c-46b9-8e15-e067438cba28.png)
+
+
+
