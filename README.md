@@ -74,6 +74,10 @@ More details: https://github.com/rayylin/Python-Production_Planning
 
 ![image](https://user-images.githubusercontent.com/58899897/198494675-d93b9d9d-3075-462c-b048-75d69cc7053e.png)
 
+This model can also be used to optimize warehouse picking operations. Only need to change the function to calculate distance.
+![image](https://user-images.githubusercontent.com/58899897/198830483-28d04580-8731-42db-9fef-b002cf9f55e5.png)
+
+
 more detail: https://github.com/rayylin/Python_Route_Optimization_TSP
 # Firm Collapse Prediction
 |Tools Used|Project Description|
