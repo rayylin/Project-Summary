@@ -62,10 +62,12 @@ more details: https://github.com/rayylin/Tableau_sales_analysis
 
 ![image](https://user-images.githubusercontent.com/58899897/198397952-f8d7628c-5fba-4472-adde-4bfcfd75fe73.png)
 
+The 'SK' is how long we could delay without violating the deadline
+
 ![image](https://user-images.githubusercontent.com/58899897/198398056-53308649-d7c2-4df6-980d-dd4f3ed46152.png)
 
 More details: https://github.com/rayylin/Python-Production_Planning
-# Route Optimization
+# Route Optimization & Warehouse Picking Operations Optimization 
 |Tools Used|Project Description|
 |---|---|
 |Python for Traveling Salesperson Problem with Gene Algorithm|In this project, we use the Gene algorithm to solve the TSP problem and applied the solution to perform route optimization. Users enter the names or addresses they want to visit. The model turns the addresses into coordinates, calculates the distances among points, performs the Gene Algorithm, and returns the best route.|
