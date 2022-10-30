@@ -10,7 +10,8 @@ This is the table of contents of all projects
 8. Firm Collapse Prediction
 9. Survival Analysis
 10. Distribution Center Optimization
-11. Shipment Tracking Dashboard
+11. Shipment/Transportation Tracking Dashboard
+12. Route Optimization with A*, Dijkstra, and BFS
 
 # PO Management System
 |Tools Used|Project Description|
@@ -119,7 +120,7 @@ more details: https://github.com/rayylin/R_Survival_Analysis
 ![image](https://user-images.githubusercontent.com/58899897/198397547-ba8ac0b0-af35-4a1a-bd77-da8d667da7e7.png)
 More details: https://github.com/rayylin/Python-Route_Optimization_by_KNN
 
-# Shipment Tracking Dashboard
+# Shipment/Transportation Tracking Dashboard
 |Tools Used|Project Description|
 |---|---|
 |Power BI for Data Visualization Python for Data Processing|As shipping becomes increasingly complicated, shipment tracking has become an important issue. In this project, we will use Power BI to build an interactive dashboard to help users track the shipping status. We will analyze  macro trends, such as shipment quantity and freight costs, and specific shipping status. As the dataset is about a pharmaceutical company, we will also focus on product category, dosage form, brand, and vendor. For each specific shipping, we can track the starting point, destination, shipment mode, and progress.|
