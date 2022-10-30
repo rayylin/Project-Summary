@@ -1,6 +1,16 @@
 # Project-Summary
-This is a summary of all projects
-
+This is the table of contents of all projects
+1. PO Management System
+2. Discrete event simulation of a factory
+3. Sales Performance Tracking Dashboard
+4. Store Items Demand Forecast
+5. Sales Performance Analysis
+6. Material Planning
+7. Route Optimization & Warehouse Picking Operations Optimization
+8. Firm Collapse Prediction
+9. Survival Analysis
+10. Distribution Center Optimization
+11. Shipment Tracking Dashboard
 
 # PO Management System
 |Tools Used|Project Description|
@@ -117,6 +127,18 @@ More details: https://github.com/rayylin/Python-Route_Optimization_by_KNN
 ![image](https://user-images.githubusercontent.com/58899897/198813673-de2d9af6-8fdf-4c02-b542-941f9db17eb6.png)
 
 ![image](https://user-images.githubusercontent.com/58899897/198813693-cddff2e7-844c-46b9-8e15-e067438cba28.png)
+
+# Route Optimization with A*, Dijkstra, and BFS
+|Tools Used|Project Description|
+|---|---|
+|Python for optimization with different algorithms| If we want to travel to point B from point A, there may be infinite routes. Therefore, it is impratical to use the method of exhaustion to solve this problem because of resource constraints. In this project, we use the Breadth First Search, Dijkstra, and A* algorithms to find a shortest path between two nodes. We can apply this concept to refine logistics and transportation operations.|
+
+![image](https://user-images.githubusercontent.com/58899897/198861609-be539de7-6603-4d9c-a6bd-be7e6c36ac18.png)
+
+![image](https://user-images.githubusercontent.com/58899897/198861620-ecf2f5d7-f4e2-4687-9dec-606689bc8210.png)
+
+
+
 
 
 
