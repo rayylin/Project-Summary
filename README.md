@@ -145,8 +145,9 @@ More details: https://github.com/rayylin/Python-Route_Optimization_by_KNN
 
 ![image](https://user-images.githubusercontent.com/58899897/199109464-f6e425e2-5429-4366-acdf-9e9171781f9e.png)
 
-![image](https://user-images.githubusercontent.com/58899897/199109542-a3b3f841-04a1-4e9b-a5d9-beeda7877303.png)
+The maximal profit is $399,226, and the production schedule is shown below.
 
+![image](https://user-images.githubusercontent.com/58899897/199110966-1926caf3-fa38-42df-9c45-7dc131791122.png)
 
 
 
