@@ -138,6 +138,15 @@ More details: https://github.com/rayylin/Python-Route_Optimization_by_KNN
 
 ![image](https://user-images.githubusercontent.com/58899897/198861620-ecf2f5d7-f4e2-4687-9dec-606689bc8210.png)
 
+# Factory Production Planning Optimization
+|Tools Used|Project Description|
+|---|---|
+|Gurobi (Python) for Optimization with |When facing a production planning challenge, people usually don’t know which production scenario is the best. In this project, we use Python and Gurobi to build an optimization model that could help users achieve their goals, such as maximizing profit or minimizing holding costs. The objective of this project is to maximize our profit and schedule the production of seven products. Resource constraints are a crucial issue, as it’s impractical to have unlimited resources. Constraints could include labor, storage space, machines, etc. We need to meet all the constraints so that the model is meaningful. This model can also help people determine when to start production and when to perform machine maintenance.|
+
+![image](https://user-images.githubusercontent.com/58899897/199109464-f6e425e2-5429-4366-acdf-9e9171781f9e.png)
+
+![image](https://user-images.githubusercontent.com/58899897/199109542-a3b3f841-04a1-4e9b-a5d9-beeda7877303.png)
+
 
 
 
