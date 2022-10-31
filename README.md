@@ -135,9 +135,10 @@ More details: https://github.com/rayylin/Python-Route_Optimization_by_KNN
 |---|---|
 |Python for optimization with different algorithms|We could have infinite routes if we want to travel to point B from point A. Therefore, it is impractical to use the method of exhaustion to solve this problem because of resource constraints. This project uses the Breadth First Search, Dijkstra, and A* algorithms to find the shortest path between two nodes. We can apply this concept to refine logistics and transportation operations.|
 
-![image](https://user-images.githubusercontent.com/58899897/198861609-be539de7-6603-4d9c-a6bd-be7e6c36ac18.png)
+![image](https://user-images.githubusercontent.com/58899897/199117134-8e170c50-3dbf-4a2b-96e8-36ded7face17.png)
 
-![image](https://user-images.githubusercontent.com/58899897/198861620-ecf2f5d7-f4e2-4687-9dec-606689bc8210.png)
+![image](https://user-images.githubusercontent.com/58899897/199117173-819c9327-3a74-4080-9099-8cd0b367ef40.png)
+
 
 # Factory Production Planning Optimization
 |Tools Used|Project Description|
