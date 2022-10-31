@@ -12,6 +12,7 @@ This is the table of contents of all projects
 10. Distribution Center Optimization
 11. Shipment/Transportation Tracking Dashboard
 12. Route Optimization with A*, Dijkstra, and BFS
+13. Factory Production Planning Optimization
 
 # PO Management System
 |Tools Used|Project Description|
