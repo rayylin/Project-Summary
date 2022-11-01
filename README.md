@@ -3,7 +3,7 @@ This is the table of contents of all projects
 1. PO Management System
 2. Discrete event simulation of a factory
 3. Sales Performance Tracking Dashboard
-4. Store Items Demand Forecast
+4. Store Items Analytics Demand Forecast
 5. Sales Performance Analysis
 6. Material Planning
 7. Route Optimization & Warehouse Picking Operations Optimization
@@ -43,12 +43,14 @@ more details: https://github.com/rayylin/Python_Simpy-Discrete_Event_Simulation
 ![image](https://user-images.githubusercontent.com/58899897/198494543-5d30d4c9-e25f-4b71-8a9c-ad74be991add.png)
 
 more details: https://github.com/rayylin/Power-BI_Purchase_order_analysis
-# Store Items Demand Forecast
+# Store Items Analytics Demand Forecast
 |Tools Used|Project Description|
 |---|---|
 |Python for Time Series Demand Forecast (ARIMA) and Sales Data Analytics|This project is about demand forecast. I have the sales data for the past five years, 930,000 in total. The raw data includes four columns, date, store, item, and quantity. First, I perform an EDA to have a basic understanding of the data. Then we could see the sales performance on different products and stores to help us better manage our inventory. Before applying the ARIMA model, we need to ensure that the data is stationary and use the Augmented Dickey-Fuller test. After the test shows that the sales data is stationary, we could use the Time Series analysis (TSA) of Statsmodels to build a model. To improve the accuracy, I include the holiday data.|
 
 ![image](https://user-images.githubusercontent.com/58899897/198486749-7e3cc2ca-32ec-4d7d-8d59-871857bb01ad.png)
+
+![image](https://user-images.githubusercontent.com/58899897/199175506-2f23a0b6-fd2b-4a2b-a21c-5a1bf2a4378e.png)
 
 ![image](https://user-images.githubusercontent.com/58899897/198487347-ec0bfc2a-c8d9-43bc-a482-97c97009d031.png)
 
