@@ -2,17 +2,18 @@
 This is the table of contents of all projects
 1. PO Management System
 2. Discrete event simulation of a factory
-3. Sales Performance Tracking Dashboard
-4. Store Items Analytics and Demand Forecast
-5. Sales Performance Analysis
-6. Material Planning
-7. Route Optimization & Warehouse Picking Operations Optimization
-8. Firm Collapse Prediction
-9. Survival Analysis
-10. Distribution Center Optimization
-11. Shipment/Transportation Tracking Dashboard
-12. Route Optimization with A*, Dijkstra, and BFS
-13. Factory Production Planning Optimization
+3. SAP Demand Forecasting
+4. Sales Performance Tracking Dashboard
+5. Store Items Analytics and Demand Forecast
+6. Sales Performance Analysis
+7. Material Planning
+8. Route Optimization & Warehouse Picking Operations Optimization
+9. Firm Collapse Prediction
+10. Survival Analysis
+11. Distribution Center Optimization
+12. Shipment/Transportation Tracking Dashboard
+13. Route Optimization with A*, Dijkstra, and BFS
+14. Factory Production Planning Optimization
 
 # PO Management System
 |Tools Used|Project Description|
@@ -34,6 +35,16 @@ more details: https://github.com/rayylin/MS_Access-Purchase_Order_Management_Sys
 ![image](https://user-images.githubusercontent.com/58899897/198489226-5b62aa8a-f2b3-432d-8174-0cfc0347edd5.png)
 
 more details: https://github.com/rayylin/Python_Simpy-Discrete_Event_Simulation
+
+# SAP Demand Forecasting
+|Tools Used|Project Description|
+|---|---|
+|SAP|This project performs a demand forecast of an electronic part. Demand forecasting is an important issue that could help businesses better allocate resources and arrange their production schedule. We have the sales data for the past two years. The product is sold in 235 locations and has 223,769 transactions. We focus on the US only. The raw data includes six columns, Location, Code, Year, Day, Sales, and Continent. We use SAP to perform demand forecasting with the Time Series model. We use Mean absolute percentage error (MAPE) to evaluate the performance. The MAPE value is 3.46%
+|
+
+![image](https://user-images.githubusercontent.com/58899897/200234400-d77d2264-67ff-44bf-beef-3fe9d467d362.png)
+
+![image](https://user-images.githubusercontent.com/58899897/200227843-9af02e93-e0cb-49fd-b6cc-fb840aaf5352.png)
 
 # Sales Performance Tracking Dashboard
 |Tools Used|Project Description|
