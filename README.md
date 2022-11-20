@@ -1,7 +1,7 @@
 # Project-Summary
 This is the table of contents of all projects
 1. PO Management System
-2. 
+2. ABC-XYZ Analysis for Inventory Management
 3. SAP Demand Forecasting
 4. Sales Performance Tracking Dashboard
 5. Store Items Analytics and Demand Forecast
@@ -25,7 +25,7 @@ This is the table of contents of all projects
 
 more details: https://github.com/rayylin/MS_Access-Purchase_Order_Management_System
 
-# ABC-XYZ Analysis for Inventory management
+# ABC-XYZ Analysis for Inventory Management
 |Tools Used|Project Description|
 |---|---|
 |Python|The ABC-XYZ analysis can help people better manage products and optimize inventory levels. It considers the demand uncertainty of products, thereby defining different safety stock levels. With ABC-XYZ analysis, we can tailor our inventory policies. For example, we can afford to hold less safety stock of AX products than AZ products. In this project, we categorize products based on their Revenue and coefficient of variation. The top 20% of products are categorized as A, and the top 21% to 50% are categorized as B. For the coefficient of variation, we use the historical data of the past two years and apply the formula: standard deviation/mean.|
