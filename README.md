@@ -1,7 +1,7 @@
 # Project-Summary
 This is the table of contents of all projects
 1. PO Management System
-2. Discrete event simulation of a factory
+2. 
 3. SAP Demand Forecasting
 4. Sales Performance Tracking Dashboard
 5. Store Items Analytics and Demand Forecast
@@ -14,6 +14,7 @@ This is the table of contents of all projects
 12. Shipment/Transportation Tracking Dashboard
 13. Route Optimization with A*, Dijkstra, and BFS
 14. Factory Production Planning Optimization
+15. Discrete event simulation of a factory
 
 # PO Management System
 |Tools Used|Project Description|
@@ -24,17 +25,14 @@ This is the table of contents of all projects
 
 more details: https://github.com/rayylin/MS_Access-Purchase_Order_Management_System
 
-
-# Discrete event simulation of a factory
+# ABC-XYZ Analysis for Inventory management
 |Tools Used|Project Description|
 |---|---|
-|Python and Simpy for Discrete event simulation|Discrete Event Simulation can help businesses use computer modeling to virtually test manufacturing methods and procedures, reducing the time and costs that physical testing of a manufacturing system would incur.  In this project, I use Simpy to carry out a discrete event simulation and allow users to test different scenarios before buying tooling, reserving capacity, or coordinating other expensive production resources. Simulation can help users determine exactly is needed to achieve their goals, such as inventory levels, replenishment rates, batch sizes, production planning, etc.|
+|Python|The ABC-XYZ analysis can help people better manage products and optimize inventory levels. It considers the demand uncertainty of products, thereby defining different safety stock levels. With ABC-XYZ analysis, we can tailor our inventory policies. For example, we can afford to hold less safety stock of AX products than AZ products. In this project, we categorize products based on their Revenue and coefficient of variation. The top 20% of products are categorized as A, and the top 21% to 50% are categorized as B. For the coefficient of variation, we use the historical data of the past two years and apply the formula: standard deviation/mean.|
 
-![image](https://user-images.githubusercontent.com/58899897/198489024-c7c0a83f-71dd-4b97-8885-275331c54e9e.png)
+![image](https://user-images.githubusercontent.com/58899897/202921664-ce723633-ddf1-45b6-a102-f6aeaa0dbaba.png)
 
-![image](https://user-images.githubusercontent.com/58899897/198489226-5b62aa8a-f2b3-432d-8174-0cfc0347edd5.png)
-
-more details: https://github.com/rayylin/Python_Simpy-Discrete_Event_Simulation
+The color represents how many products are categorized as each type. For example, 89 products are categorized as CZ type.
 
 # SAP Demand Forecasting
 |Tools Used|Project Description|
@@ -164,6 +162,17 @@ The maximal profit is $399,226, and the production schedule is shown below.
 
 ![image](https://user-images.githubusercontent.com/58899897/199110966-1926caf3-fa38-42df-9c45-7dc131791122.png)
 
+
+# Discrete event simulation of a factory
+|Tools Used|Project Description|
+|---|---|
+|Python and Simpy for Discrete event simulation|Discrete Event Simulation can help businesses use computer modeling to virtually test manufacturing methods and procedures, reducing the time and costs that physical testing of a manufacturing system would incur.  In this project, I use Simpy to carry out a discrete event simulation and allow users to test different scenarios before buying tooling, reserving capacity, or coordinating other expensive production resources. Simulation can help users determine exactly is needed to achieve their goals, such as inventory levels, replenishment rates, batch sizes, production planning, etc.|
+
+![image](https://user-images.githubusercontent.com/58899897/198489024-c7c0a83f-71dd-4b97-8885-275331c54e9e.png)
+
+![image](https://user-images.githubusercontent.com/58899897/198489226-5b62aa8a-f2b3-432d-8174-0cfc0347edd5.png)
+
+more details: https://github.com/rayylin/Python_Simpy-Discrete_Event_Simulation
 
 
 
