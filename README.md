@@ -1,6 +1,6 @@
 # Project-Summary
 This is the table of contents of all projects
-1. PO Management System (MS Access)
+1. Demand Forecasting Example- Service Parts in the Eletric Vehicle Industry(Python, MySQL)
 2. ABC-XYZ Analysis for Inventory Management (Python)
 3. SAP Demand Forecasting (SAP)
 4. Sales Performance Tracking Dashboard (Power BI)
@@ -15,15 +15,20 @@ This is the table of contents of all projects
 13. Route Optimization with A*, Dijkstra, and BFS (Python)
 14. Factory Production Planning Optimization (Python-Gurobi)
 15. Discrete event simulation of a factory (Python-SimPy)
+16. PO Management System (MS Access)
 
-# PO Management System
+# Demand Forecasting Example- Service Parts in the Eletric Vehicle Industry
 |Tools Used|Project Description|
 |---|---|
-|MS Access for data management|Purchase order management system plays an essential role in business operation. It helps companies effectively manage purchase orders (POs)  and reconciles supplier invoices to POs, contracts, and more. I use MS Access to create a PO management system.  The system divides PO data into four tables, ensuring data consistency and avoiding duplicating data. Also, the system allows users to manage  PO data through a friendly user interface instead of SQL.|
+|Python, MySQL|Good demand forecasting could help businesses manage their inventory levels, arrange production schedules, improve ordering patterns of raw materials, and maintain healthier cash flow. I will use Time Series, XGBoost, and Lasso to forecast the demand for service parts in the Electric Vehicle Industry. Also, I will demonstrate how to perform location pooling for some expensive, rare-used parts. The risk pooling approach can put several supply-chain flows into one flow, thereby reducing demand variability. Furthermore, I will discuss how to improve forecasting accuracy and perform demand forecasting when you have no historical data; in other words, how to handle supersession or NPI projects.|
 
-![image](https://user-images.githubusercontent.com/58899897/198490039-edc62e2b-c41b-4cd9-ad7f-d9b1134d0e0e.png)
+![image](https://user-images.githubusercontent.com/58899897/204397412-873276cb-7ce6-4777-93bd-c20432acf32b.png)
+![image](https://user-images.githubusercontent.com/58899897/204398052-3ea0f4df-c4fe-4a88-866b-b311f682ee00.png)
+![image](https://user-images.githubusercontent.com/58899897/204398099-9373e336-facf-4cad-a585-80676d1c7511.png)
+![image](https://user-images.githubusercontent.com/58899897/204398453-dae67421-e60a-49fd-bfcd-f561fb6f96dd.png)
+![image](https://user-images.githubusercontent.com/58899897/204398649-26a3b5a4-51b6-4aff-94ca-29c72712324c.png)
 
-more details: https://github.com/rayylin/MS_Access-Purchase_Order_Management_System
+
 
 # ABC-XYZ Analysis for Inventory Management
 |Tools Used|Project Description|
@@ -174,6 +179,13 @@ The maximal profit is $399,226, and the production schedule is shown below.
 
 more details: https://github.com/rayylin/Python_Simpy-Discrete_Event_Simulation
 
+# PO Management System
+|Tools Used|Project Description|
+|---|---|
+|MS Access for data management|Purchase order management system plays an essential role in business operation. It helps companies effectively manage purchase orders (POs)  and reconciles supplier invoices to POs, contracts, and more. I use MS Access to create a PO management system.  The system divides PO data into four tables, ensuring data consistency and avoiding duplicating data. Also, the system allows users to manage  PO data through a friendly user interface instead of SQL.|
 
+![image](https://user-images.githubusercontent.com/58899897/198490039-edc62e2b-c41b-4cd9-ad7f-d9b1134d0e0e.png)
+
+more details: https://github.com/rayylin/MS_Access-Purchase_Order_Management_System
 
 
