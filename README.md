@@ -1,20 +1,20 @@
 # Project-Summary
 This is the table of contents of all projects
-1. PO Management System
-2. ABC-XYZ Analysis for Inventory Management
-3. SAP Demand Forecasting
-4. Sales Performance Tracking Dashboard
-5. Store Items Analytics and Demand Forecast
-6. Sales Performance Analysis
-7. Material Planning
-8. Route Optimization & Warehouse Picking Operations Optimization
-9. Firm Collapse Prediction
-10. Survival Analysis
-11. Distribution Center Optimization
-12. Shipment/Transportation Tracking Dashboard
-13. Route Optimization with A*, Dijkstra, and BFS
-14. Factory Production Planning Optimization
-15. Discrete event simulation of a factory
+1. PO Management System (MS Access)
+2. ABC-XYZ Analysis for Inventory Management (Python)
+3. SAP Demand Forecasting (SAP)
+4. Sales Performance Tracking Dashboard (Power BI)
+5. Store Items Analytics and Demand Forecast (Python)
+6. Sales Performance Analysis (Tableau)
+7. Material Planning (Python)
+8. Route Optimization & Warehouse Picking Operations Optimization (Python)
+9. Firm Collapse Prediction (SAS EM)
+10. Survival Analysis (R)
+11. Distribution Center Optimization (Python)
+12. Shipment/Transportation Tracking Dashboard (Power BI)
+13. Route Optimization with A*, Dijkstra, and BFS (Python)
+14. Factory Production Planning Optimization (Python-Gurobi)
+15. Discrete event simulation of a factory (Python-SimPy)
 
 # PO Management System
 |Tools Used|Project Description|
