@@ -22,13 +22,12 @@ This is the table of contents of all projects
 |---|---|
 |Python, MySQL|Good demand forecasting could help businesses manage their inventory levels, arrange production schedules, improve ordering patterns of raw materials, and maintain healthier cash flow. I will use Time Series, XGBoost, and Lasso to forecast the demand for service parts in the Electric Vehicle Industry. Also, I will demonstrate how to perform location pooling for some expensive, rare-used parts. The risk pooling approach can put several supply-chain flows into one flow, thereby reducing demand variability. Furthermore, I will discuss how to improve forecasting accuracy and perform demand forecasting when you have no historical data; in other words, how to handle supersession or NPI projects.|
 
-![image](https://user-images.githubusercontent.com/58899897/204397412-873276cb-7ce6-4777-93bd-c20432acf32b.png)
 ![image](https://user-images.githubusercontent.com/58899897/204398052-3ea0f4df-c4fe-4a88-866b-b311f682ee00.png)
 ![image](https://user-images.githubusercontent.com/58899897/204398099-9373e336-facf-4cad-a585-80676d1c7511.png)
 ![image](https://user-images.githubusercontent.com/58899897/204398453-dae67421-e60a-49fd-bfcd-f561fb6f96dd.png)
 ![image](https://user-images.githubusercontent.com/58899897/204398649-26a3b5a4-51b6-4aff-94ca-29c72712324c.png)
 
-
+more details: https://github.com/rayylin/Demand-Forecasting-Example--Service-Parts-in-the-Eletric-Vehicle-Industry
 
 # ABC-XYZ Analysis for Inventory Management
 |Tools Used|Project Description|
