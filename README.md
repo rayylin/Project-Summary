@@ -2,20 +2,21 @@
 This is the table of contents of all projects
 1. Demand Forecasting Example- Service Parts in the Eletric Vehicle Industry(Python, MySQL)
 2. ABC-XYZ Analysis for Inventory Management (Python)
-3. SAP Demand Forecasting (SAP)
-4. Sales Performance Tracking Dashboard (Power BI)
-5. Store Items Analytics and Demand Forecast (Python)
-6. Sales Performance Analysis (Tableau)
-7. Material Planning (Python)
-8. Route Optimization & Warehouse Picking Operations Optimization (Python)
-9. Firm Collapse Prediction (SAS EM)
-10. Survival Analysis (R)
-11. Distribution Center Optimization (Python)
-12. Shipment/Transportation Tracking Dashboard (Power BI)
-13. Route Optimization with A*, Dijkstra, and BFS (Python)
-14. Factory Production Planning Optimization (Python-Gurobi)
-15. Discrete event simulation of a factory (Python-SimPy)
-16. PO Management System (MS Access)
+3. Data Pipeline for Maintenance Management (Alterxy, SQL Server)
+4. SAP Demand Forecasting (SAP)
+5. Sales Performance Tracking Dashboard (Power BI)
+6. Store Items Analytics and Demand Forecast (Python)
+7. Sales Performance Analysis (Tableau)
+8. Material Planning (Python)
+9. Route Optimization & Warehouse Picking Operations Optimization (Python)
+10. Firm Collapse Prediction (SAS EM)
+11. Survival Analysis (R)
+12. Distribution Center Optimization (Python)
+13. Shipment/Transportation Tracking Dashboard (Power BI)
+14. Route Optimization with A*, Dijkstra, and BFS (Python)
+15. Factory Production Planning Optimization (Python-Gurobi)
+16. Discrete event simulation of a factory (Python-SimPy)
+17. PO Management System (MS Access)
 
 # Demand Forecasting Example- Service Parts in the Eletric Vehicle Industry
 |Tools Used|Project Description|
@@ -37,6 +38,18 @@ more details: https://github.com/rayylin/Demand-Forecasting-Example--Service-Par
 ![image](https://user-images.githubusercontent.com/58899897/202921664-ce723633-ddf1-45b6-a102-f6aeaa0dbaba.png)
 
 The color represents how many products are categorized as each type. For example, 89 products are categorized as CZ type.
+
+
+# Data Pipeline for Maintenance Management
+|Tools Used|Project Description|
+|---|---|
+|Alterxy, SQL Server|Vehicles consist of hundreds or even thousands of parts, and each may have a specific duration. It would be very time-consuming to manage the maintenance plan manually. A data pipeline could help up perform this task. In this project, I applied Alteryx to automate the process. The model extracts data from CSV files and SQL Server database and calculates how many vehicles need to be maintained. We can also compute how many vehicles need maintenance during the incoming months. The model could automatically execute itself every month to update the critical information.|
+
+![image](https://user-images.githubusercontent.com/58899897/204888634-f44cbe76-ed4a-4e73-bb44-5037ce8f463e.png)
+![image](https://user-images.githubusercontent.com/58899897/204888719-c1b19fc5-bc32-4db8-a887-56394e43f8d4.png)
+![image](https://user-images.githubusercontent.com/58899897/204888811-fa578ad6-a412-4ae0-9fb1-69f4f77682e3.png)
+
+
 
 # SAP Demand Forecasting
 |Tools Used|Project Description|
