@@ -27,8 +27,6 @@ This is the table of contents of all projects
 
 ![image](https://user-images.githubusercontent.com/58899897/204398099-9373e336-facf-4cad-a585-80676d1c7511.png)
 
-![image](https://user-images.githubusercontent.com/58899897/205188373-61315791-9302-489e-ac4a-e1e67b06ca98.png)
-
 ![image](https://user-images.githubusercontent.com/58899897/204398453-dae67421-e60a-49fd-bfcd-f561fb6f96dd.png)
 
 ![image](https://user-images.githubusercontent.com/58899897/204398649-26a3b5a4-51b6-4aff-94ca-29c72712324c.png)
