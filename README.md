@@ -17,6 +17,7 @@ This is the table of contents of all projects
 15. Factory Production Planning Optimization (Python-Gurobi)
 16. Discrete event simulation of a factory (Python-SimPy)
 17. PO Management System (MS Access)
+18. Production Monitoring Dashboard (MS SQL Server, Power BI)
 
 # Demand Forecasting Example- Service Parts in the Eletric Vehicle Industry
 |Tools Used|Project Description|
@@ -202,5 +203,12 @@ more details: https://github.com/rayylin/Python_Simpy-Discrete_Event_Simulation
 ![image](https://user-images.githubusercontent.com/58899897/198490039-edc62e2b-c41b-4cd9-ad7f-d9b1134d0e0e.png)
 
 more details: https://github.com/rayylin/MS_Access-Purchase_Order_Management_System
+
+# 18. Production Monitoring Dashboard
+|Tools Used|Project Description|
+|---|---|
+|MS SQL Server, Power BI|A production dashboard can help users monitor the KPIs of production processes on a real-time basis and use visualization techniques, such as graphs and tables, to make production KPIs easy to understand. In this project, we use SQL Server and Power BI to build an interactive dashboard that helps users monitor production processes.|
+![image](https://user-images.githubusercontent.com/58899897/205516447-d7715809-2d12-487a-9b96-f07a7ae8689a.png)
+
 
 
