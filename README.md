@@ -167,6 +167,7 @@ More details: https://github.com/rayylin/Python-Route_Optimization_by_KNN
 |---|---|
 |Python for optimization with different algorithms|We could have infinite routes if we want to travel to point B from point A. Therefore, it is impractical to use the method of exhaustion to solve this problem because of resource constraints. This project uses the Breadth First Search, Dijkstra, and A* algorithms to find the shortest path between two nodes. We can apply this concept to refine logistics and transportation operations.|
 
+
 ![image](https://user-images.githubusercontent.com/58899897/199117134-8e170c50-3dbf-4a2b-96e8-36ded7face17.png)
 
 ![image](https://user-images.githubusercontent.com/58899897/199117173-819c9327-3a74-4080-9099-8cd0b367ef40.png)
@@ -208,6 +209,9 @@ more details: https://github.com/rayylin/MS_Access-Purchase_Order_Management_Sys
 |Tools Used|Project Description|
 |---|---|
 |MS SQL Server, Power BI|A production dashboard can help users monitor the KPIs of production processes on a real-time basis and use visualization techniques, such as graphs and tables, to make production KPIs easy to understand. In this project, we use SQL Server and Power BI to build an interactive dashboard that helps users monitor production processes.|
+
+
+# 
 ![image](https://user-images.githubusercontent.com/58899897/205516447-d7715809-2d12-487a-9b96-f07a7ae8689a.png)
 
 
