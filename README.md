@@ -208,7 +208,7 @@ more details: https://github.com/rayylin/MS_Access-Purchase_Order_Management_Sys
 # 18. Production Monitoring Dashboard
 |Tools Used|Project Description|
 |---|---|
-|MS SQL Server, Power BI|A production dashboard can help users monitor the KPIs of production processes on a real-time basis and use visualization techniques, such as graphs and tables, to make production KPIs easy to understand. In this project, we use SQL Server and Power BI to build an interactive dashboard that helps users monitor production processes.|
+|MS SQL Server, Power BI|A production dashboard can help users monitor the KPIs of production processes on a real-time basis and use visualization techniques, such as graphs and tables, to make production KPIs easy to understand. In this project, we use SQL Server and Power BI to build an interactive dashboard that helps users monitor production processes. With the direct query function, we could monitor the performance and troubleshoot production issues, such as  downtime and cycle time. |
 
 
 # 
