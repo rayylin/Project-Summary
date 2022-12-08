@@ -4,20 +4,21 @@ This is the table of contents of all projects
 2. ABC-XYZ Analysis for Inventory Management (Python)
 3. Data Pipeline for Maintenance Management (Alterxy, SQL Server)
 4. SAP Demand Forecasting (SAP)
-5. Sales Performance Tracking Dashboard (Power BI)
-6. Store Items Analytics and Demand Forecast (Python)
-7. Sales Performance Analysis (Tableau)
-8. Material Planning (Python)
-9. Route Optimization & Warehouse Picking Operations Optimization (Python)
-10. Firm Collapse Prediction (SAS EM)
-11. Survival Analysis (R)
-12. Distribution Center Optimization (Python)
-13. Shipment/Transportation Tracking Dashboard (Power BI)
-14. Route Optimization with A*, Dijkstra, and BFS (Python)
-15. Factory Production Planning Optimization (Python-Gurobi)
-16. Discrete event simulation of a factory (Python-SimPy)
-17. PO Management System (MS Access)
-18. Production Monitoring Dashboard (MS SQL Server, Power BI)
+5. Inventory Management System (C#, .Net, SQL Server)
+6. Sales Performance Tracking Dashboard (Power BI)
+7. Store Items Analytics and Demand Forecast (Python)
+8. Sales Performance Analysis (Tableau)
+9. Material Planning (Python)
+10. Route Optimization & Warehouse Picking Operations Optimization (Python)
+11. Firm Collapse Prediction (SAS EM)
+12. Survival Analysis (R)
+13. Distribution Center Optimization (Python)
+14. Shipment/Transportation Tracking Dashboard (Power BI)
+15. Route Optimization with A*, Dijkstra, and BFS (Python)
+16. Factory Production Planning Optimization (Python-Gurobi)
+17. Discrete event simulation of a factory (Python-SimPy)
+18. PO Management System (MS Access)
+19. Production Monitoring Dashboard (MS SQL Server, Power BI)
 
 # Demand Forecasting Example- Service Parts in the Eletric Vehicle Industry
 |Tools Used|Project Description|
@@ -64,6 +65,18 @@ The color represents how many products are categorized as each type. For example
 ![image](https://user-images.githubusercontent.com/58899897/200234400-d77d2264-67ff-44bf-beef-3fe9d467d362.png)
 
 ![image](https://user-images.githubusercontent.com/58899897/200227843-9af02e93-e0cb-49fd-b6cc-fb840aaf5352.png)
+
+# Inventory Management System
+|Tools Used|Project Description|
+|---|---|
+|C#, .Net, SQL Server|An Inventory Management System can help companies manage their orders, inventory, and customers. In this project, we use C# and .net to write an inventory management system. The system uses SQL Server as its database.|
+
+![image](https://user-images.githubusercontent.com/58899897/206274891-624b3764-9931-498b-816e-f39dae54e39e.png)
+![image](https://user-images.githubusercontent.com/58899897/206275935-e02e52d3-7b1d-4a67-9fa2-9c67fc0ad09c.png)
+![image](https://user-images.githubusercontent.com/58899897/206276458-4de93bd0-5a64-4740-bf79-63b9a766fe9c.png)
+
+
+
 
 # Sales Performance Tracking Dashboard
 |Tools Used|Project Description|
