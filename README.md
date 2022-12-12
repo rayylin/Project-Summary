@@ -227,5 +227,14 @@ more details: https://github.com/rayylin/MS_Access-Purchase_Order_Management_Sys
 # 
 ![image](https://user-images.githubusercontent.com/58899897/205705669-bff07f00-47af-4c35-9117-a44b077758d0.png)
 
+# Digital Marketing Performance Dashboard
+|Tools Used|Project Description|
+|---|---|
+|Power BI, SQL Server|A marketing performance dashboard can provide users with a high-level perspective into key performance indicators, such as conversion rate and customer segmentation. In this project, we will use SQL Server and Power BI to build an interactive dashboard that helps us monitor digital marketing performance.|
+
+![image](https://user-images.githubusercontent.com/58899897/207111744-6a96ebbe-c303-4ef4-8d1c-b3c61cbc8568.png)
+![image](https://user-images.githubusercontent.com/58899897/207112034-2272b7d0-7aff-4182-8463-3e9375b2ccd3.png)
+
+
 
 
