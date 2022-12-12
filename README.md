@@ -19,6 +19,8 @@ This is the table of contents of all projects
 17. Discrete event simulation of a factory (Python-SimPy)
 18. PO Management System (MS Access)
 19. Production Monitoring Dashboard (MS SQL Server, Power BI)
+20. Digital Marketing Performance Dashboard
+
 
 # Demand Forecasting Example- Service Parts in the Eletric Vehicle Industry
 |Tools Used|Project Description|
