@@ -20,6 +20,8 @@ This is the table of contents of all projects
 18. PO Management System (MS Access)
 19. Production Monitoring Dashboard (MS SQL Server, Power BI)
 20. Digital Marketing Performance Dashboard
+21. AB Test for different website layouts
+22. Basket Analysis
 
 
 # Demand Forecasting Example- Service Parts in the Eletric Vehicle Industry
@@ -237,6 +239,10 @@ more details: https://github.com/rayylin/MS_Access-Purchase_Order_Management_Sys
 ![image](https://user-images.githubusercontent.com/58899897/207111744-6a96ebbe-c303-4ef4-8d1c-b3c61cbc8568.png)
 ![image](https://user-images.githubusercontent.com/58899897/207112034-2272b7d0-7aff-4182-8463-3e9375b2ccd3.png)
 
+# AB Test for different website layouts
+![image](https://github.com/rayylin/Project-Summary/assets/58899897/fc1a71b2-5c6a-462d-9c62-3d37ddde6265)
 
+# Basket Analysis
+![image](https://github.com/rayylin/Project-Summary/assets/58899897/63cd7d0e-bb0c-43c8-965b-493241d06871)
 
 
