@@ -12,16 +12,17 @@ This is the table of contents of all projects
 10. Route Optimization & Warehouse Picking Operations Optimization (Python)
 11. Firm Collapse Prediction (SAS EM)
 12. Survival Analysis (R)
-13. Distribution Center Optimization (Python)
-14. Shipment/Transportation Tracking Dashboard (Power BI)
-15. Route Optimization with A*, Dijkstra, and BFS (Python)
-16. Factory Production Planning Optimization (Python-Gurobi)
-17. Discrete event simulation of a factory (Python-SimPy)
-18. PO Management System (MS Access)
-19. Production Monitoring Dashboard (MS SQL Server, Power BI)
-20. Digital Marketing Performance Dashboard
-21. AB Test for different website layouts
-22. Basket Analysis
+13. Churn Rate Analysis (Power BI)
+14. Distribution Center Optimization (Python)
+15. Shipment/Transportation Tracking Dashboard (Power BI)
+16. Route Optimization with A*, Dijkstra, and BFS (Python)
+17. Factory Production Planning Optimization (Python-Gurobi)
+18. Discrete event simulation of a factory (Python-SimPy)
+19. PO Management System (MS Access)
+20. Production Monitoring Dashboard (MS SQL Server, Power BI)
+21. Digital Marketing Performance Dashboard
+22. AB Test for different website layouts
+23. Basket Analysis
 
 
 # Demand Forecasting Example- Service Parts in the Eletric Vehicle Industry
@@ -159,6 +160,10 @@ more details: https://github.com/rayylin/SAS_EM-Firm_collapse_prediction
 ![image](https://user-images.githubusercontent.com/58899897/198494258-0686016b-c8ad-478c-b50a-7b0427a6bcd7.png)
 
 more details: https://github.com/rayylin/R_Survival_Analysis
+
+# Churn Rate Analysis (Power BI)
+![image](https://github.com/user-attachments/assets/a5ffd5e0-d3cf-4d08-b103-ac58389c4ccb)
+
 
 # Distribution Center Optimization
 |Tools Used|Project Description|
