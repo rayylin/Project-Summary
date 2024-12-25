@@ -22,7 +22,7 @@ This is the table of contents of all projects
 20. Production Monitoring Dashboard (MS SQL Server, Power BI)
 21. Digital Marketing Performance Dashboard
 22. AB Test for different website layouts
-23. Basket Analysis
+23. Online Shopping Website with Basket Analysis
 
 
 # Demand Forecasting Example- Service Parts in the Eletric Vehicle Industry
@@ -247,7 +247,12 @@ more details: https://github.com/rayylin/MS_Access-Purchase_Order_Management_Sys
 # AB Test for different website layouts
 ![image](https://github.com/rayylin/Project-Summary/assets/58899897/fc1a71b2-5c6a-462d-9c62-3d37ddde6265)
 
-# Basket Analysis
-![image](https://github.com/rayylin/Project-Summary/assets/58899897/63cd7d0e-bb0c-43c8-965b-493241d06871)
+# [Online Shopping Website with Basket Analysis](https://github.com/rayylin/RecommendationSys)
+|Tools Used|Project Description|
+|---|---|
+|Python (Flask), Sql Server, JavaScript|This project builds an online store using Python Flask, featuring product browsing, category filtering and a shopping cart. It integrates basket analysis with association rule mining to provide personalized product recommendations, enhancing user experience and boosting sales. The backend uses Flask with a relational database.|
+
+[![image](https://github.com/user-attachments/assets/28002e3f-34a5-4949-bc8e-6f67f159d258)](https://github.com/rayylin/RecommendationSys)
+![image](https://github.com/user-attachments/assets/b81eda1b-073e-41e3-847f-7be417ad4ae0)
 
 
