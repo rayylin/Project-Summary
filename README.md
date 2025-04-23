@@ -110,7 +110,7 @@ more details: https://github.com/rayylin/Python-Store_Item_Demand_Forecast_with_
 # Sales Performance Analysis
 |Tools Used|Project Description|
 |---|---|
-|Tableau for sales performance visualization and root cause analysis|In this project, I build an interactive dashboard to track and analyze KPIs and visualize information. The dashboard uses different plots to show the performance and trends of each product. The dashboard can also help users find abnormalities by drilling down the data to get more information. We find that the increasing costs affect the profit in Italy.|
+|Tableau for sales performance visualization and root cause analysis| <br/>In this project, I build an interactive dashboard to track and analyze KPIs and visualize information. The dashboard uses different plots to show the performance and trends of each product. The dashboard can also help users find abnormalities by drilling down the data to get more information. We find that the increasing costs affect the profit in Italy.|
 
 ![image](https://user-images.githubusercontent.com/58899897/198492186-ac4ab495-a73f-464f-89f6-54f7728dce8c.png)
 
