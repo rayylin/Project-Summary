@@ -1,6 +1,6 @@
 # Project-Summary
 This is the table of contents of all projects
-1. Demand Forecasting Example- Service Parts in the Eletric Vehicle Industry(Python, MySQL, html)
+1. Demand Forecasting Example- Service Parts in the Eletric Vehicle Industry(Python (Random Forest), MySQL, html)
 2. ABC-XYZ Analysis for Inventory Management (Python)
 3. Data Pipeline for Maintenance Management (Alterxy, SQL Server)
 4. SAP Demand Forecasting (SAP)
