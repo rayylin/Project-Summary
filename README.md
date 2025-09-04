@@ -22,7 +22,7 @@ This is the table of contents of all projects
 20. Production Monitoring Dashboard (MS SQL Server, Power BI)
 21. Digital Marketing Performance Dashboard
 22. AB Test for different website layouts
-23. Online Shopping Website with Basket Analysis
+23. Online Shopping Website with Basket Analysis (including RAG)
 
 
 # Demand Forecasting Example- Service Parts in the Eletric Vehicle Industry
