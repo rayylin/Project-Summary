@@ -2,7 +2,7 @@
 This is the table of contents of all projects
 1. Demand Forecasting - Service Parts in the Eletric Vehicle Industry(Python (Random Forest), MySQL, html)
 2. ABC-XYZ Analysis for Inventory Management (Python)
-3. Data Pipeline for Machine Maintenance Management (Alterxy, MS SQL Server)
+3. Data Pipeline for Machine Maintenance Management (Alterxy, PostgreSql)
 4. SAP Demand Forecasting (SAP)
 5. Inventory Management System (C#, .Net, SQL Server)
 6. Sales Performance Tracking Dashboard (Power BI)
